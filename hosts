@@ -1,4 +1,4 @@
 127.0.0.1 localhost
 172.16.31.100 test.narfon.com.tr
 172.16.31.100 api.test.narfon.com.tr
-195.155.130.134 test.narfon.com.tr
+195.155.130.134:56101 test.narfon.com.tr
